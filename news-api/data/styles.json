@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Original",
+    "description": "Mantener el estilo original del texto."
+  },
+  {
+    "name": "Formal",
+    "description": "Escritura profesional, estructurada y con un lenguaje técnico o académico."
+  },
+  {
+    "name": "Informal",
+    "description": "Redacción más casual, cercana y coloquial."
+  },
+  {
+    "name": "Conversacional",
+    "description": "Estilo amigable y accesible, como una charla entre amigos."
+  },
+  {
+    "name": "Periodístico",
+    "description": "Enfocado en la claridad y concisión, con un enfoque en la objetividad y hechos."
+  },
+  {
+    "name": "Narrativo",
+    "description": "Estilo que se usa para contar historias, con descripciones detalladas y un tono más literario."
+  },
+  {
+    "name": "Persuasivo",
+    "description": "Orientado a convencer al lector, con argumentos sólidos y llamados a la acción."
+  },
+  {
+    "name": "Publicitario",
+    "description": "Directo, creativo y enfocado en destacar productos o servicios de manera atractiva."
+  },
+  {
+    "name": "Técnico",
+    "description": "Preciso y especializado, con un enfoque en detalles funcionales o científicos."
+  },
+  {
+    "name": "Creativo",
+    "description": "Enfocado en la innovación, usando metáforas, imágenes visuales y recursos literarios."
+  },
+  {
+    "name": "Descriptivo",
+    "description": "Detallado, con énfasis en los sentidos y la creación de imágenes mentales."
+  },
+  {
+    "name": "Expositivo",
+    "description": "Claridad y estructura para explicar conceptos o hechos de forma objetiva."
+  },
+  {
+    "name": "Argumentativo",
+    "description": "Presentación de tesis o posturas con lógica, evidencias y análisis."
+  },
+  {
+    "name": "Académico",
+    "description": "Rigoroso, con citas y una estructura formal, ideal para artículos y ensayos."
+  },
+  {
+    "name": "Humorístico",
+    "description": "Ligero, con elementos de comedia, ironía o sarcasmo."
+  },
+  {
+    "name": "Inspirador/Motivacional",
+    "description": "Redacción que busca elevar el ánimo o motivar al lector."
+  },
+  {
+    "name": "Crítico",
+    "description": "Análisis profundo y objetivo de temas, con juicios bien fundamentados."
+  },
+  {
+    "name": "Poético",
+    "description": "Uso de figuras literarias y un tono lírico para crear belleza en el lenguaje."
+  },
+  {
+    "name": "Empático",
+    "description": "Estilo que muestra comprensión y conexión emocional con el lector."
+  },
+  {
+    "name": "Instructivo",
+    "description": "Enfocado en dar indicaciones claras, paso a paso, para resolver problemas o realizar tareas."
+  },
+  {
+    "name": "Reseña/Crítica",
+    "description": "Opinión analítica sobre productos, eventos, o contenidos."
+  },
+  {
+    "name": "Abstracto",
+    "description": "Redacción conceptual y filosófica, con enfoque en ideas más que en hechos concretos."
+  },
+  {
+    "name": "Infantil",
+    "description": "Lenguaje simple, con explicaciones sencillas, ideal para una audiencia joven."
+  },
+  {
+    "name": "Satírico",
+    "description": "Uso del humor mordaz y la exageración para criticar o ridiculizar algo."
+  },
+  {
+    "name": "Reflexivo",
+    "description": "Enfocado en la introspección y en compartir pensamientos profundos o personales."
+  }
+]

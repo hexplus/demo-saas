@@ -1,0 +1,127 @@
+# @name tokenrequest
+POST http://127.0.0.1:5000/login
+Content-Type: application/json
+
+{
+  "username": "",
+  "password": ""
+}
+
+### Asignar el token a una variable
+@token = {{tokenrequest.response.body.access_token}}
+
+####
+GET http://127.0.0.1:5000/
+Content-Type: application/json
+
+####
+GET http://127.0.0.1:5000/adapters?country_code=CRI
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+####
+GET http://127.0.0.1:5000/headlines/CGR
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/headlines/ICE
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/categories/CNNE
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/headlines/CNNE
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/headlines/PJ
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/headlines/CCSS
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/headlines/MPSJ
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/headlines/ARSP
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/content/CNNE?slug=/2024/10/24/palestinos-escudos-humanos-gaza-soldados-israel-trax
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+####
+GET http://127.0.0.1:5000/styles
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/headlines/EARTH
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/headlines/ESPH
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/headlines/FECOBA
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+####
+GET http://127.0.0.1:5000/tones
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+
+####
+GET http://127.0.0.1:5000/complexities
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+####
+GET http://127.0.0.1:5000/summary-lengths
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+
+####
+GET http://127.0.0.1:5000/summary-types
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+####
+GET http://127.0.0.1:5000/social-networks
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/content/ICE?slug=embalse+arenal+supera+nivel+programado+para+ultimo+trimestre+de+2024+y+aumenta+reservas+energeticas+del+pais/embalse+arenal+supera+nivel+programado+para+ultimo+trimestre+de+2024+y+aumenta+reservas+energeticas+del+pais
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/content/EARTH?slug=cafe-en-las-tierras-bajas-del-tropico-una-apuesta-por-la-innovacion-agroforestal/
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+###
+GET http://127.0.0.1:5000/content/PJ?slug=hombre-fue-detenido-como-sospechoso-de-homicidio-de-nino
+Content-Type: application/json
+Authorization: Bearer {{token}}

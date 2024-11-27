@@ -1,0 +1,51 @@
+Estilos, tono y claridad:
+
+1. Simplificación y Claridad
+Puedes pedirle al modelo que simplifique oraciones complejas o ambiguas, haciendo que el texto sea más claro y fácil de leer.
+
+prompt = "Simplifica el siguiente texto y mejora su claridad: 'A pesar de la evidente complejidad inherente en la implementación del sistema, se espera que su funcionalidad sea robusta.'"
+
+2. Reescritura con Diferentes Tonos
+prompt = "Reescribe el siguiente texto en un tono más formal: 'Hey, te quería decir que el reporte está casi listo, solo faltan algunos detalles.'"
+
+3. Corrección Gramatical y Ortográfica
+GPT-4 puede realizar correcciones ortográficas, gramaticales y de puntuación para que el texto cumpla con las reglas del idioma.
+prompt = "Corrige los errores gramaticales en el siguiente texto: 'El equipo han terminado el proyecto y está listos para la presentación.'"
+
+4. Mejora de Fluidez y Estilo
+prompt = "Haz que el siguiente texto suene más fluido: 'El hombre comenzó a caminar hacia la tienda, ya que olvidó comprar el pan antes de salir.'"
+
+5. Ajuste de Longitud
+prompt = "Resume el siguiente texto en una oración: 'El avance de la tecnología ha permitido el desarrollo de herramientas que facilitan el trabajo remoto y la colaboración en línea.'"
+
+Expandir:
+prompt = "Expande la siguiente oración con más detalles: 'La conferencia fue un éxito.'"
+
+6. Cambio de Perspectiva o Persona
+prompt = "Reescribe el siguiente texto en tercera persona: 'Llevo semanas trabajando en este proyecto, pero finalmente lo terminé.'"
+
+7. Mejora del Vocabulario
+prompt = "Mejora el vocabulario en la siguiente oración: 'El proyecto fue muy bueno y tuvo un gran impacto en la empresa.'"
+
+8. Adaptación a un Estilo Específico
+Si estás buscando escribir siguiendo un estilo específico (científico, periodístico, creativo), puedes pedir que el modelo ajuste el texto a esas convenciones.
+prompt = "Reescribe el siguiente texto siguiendo un estilo periodístico: 'La nueva política ha generado gran controversia entre los ciudadanos.'"
+
+9. Conversión a Lenguaje Inclusivo
+Puedes hacer que el texto sea más inclusivo en términos de género u otros aspectos sociales.
+prompt = "Convierte el siguiente texto a un lenguaje inclusivo: 'Todos los empleados deben presentar su informe antes del viernes.'"
+
+10. Reformulación para Evitar la Voz Pasiva
+prompt = "Reescribe el siguiente texto en voz activa: 'El informe fue presentado por el equipo de ventas.'"
+
+
+# Set Python Path
+
+set PYTHONPATH=C:\Projects\mine\news-ai\news-api
+python adapters/cr/contraloria.py
+
+
+export PYTHONPATH=/path/to/news-ai/news-api
+python adapters/cr/contraloria.py
+
+npx shadcn@latest add

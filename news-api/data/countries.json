@@ -1,0 +1,240 @@
+[
+    {
+        "country": "USA",
+        "spa": "Estados Unidos de América",
+        "eng": "United States of America",
+        "por": "Estados Unidos da América",
+        "fra": "États-Unis d'Amérique"
+    },
+    {
+        "country": "CAN",
+        "spa": "Canadá",
+        "eng": "Canada",
+        "por": "Canadá",
+        "fra": "Canada"
+    },
+    {
+        "country": "MEX",
+        "spa": "México",
+        "eng": "Mexico",
+        "por": "México",
+        "fra": "Mexique"
+    },
+    {
+        "country": "BRA",
+        "spa": "Brasil",
+        "eng": "Brazil",
+        "por": "Brasil",
+        "fra": "Brésil"
+    },
+    {
+        "country": "ARG",
+        "spa": "Argentina",
+        "eng": "Argentina",
+        "por": "Argentina",
+        "fra": "Argentine"
+    },
+    {
+        "country": "CRI",
+        "spa": "Costa Rica",
+        "eng": "Costa Rica",
+        "por": "Costa Rica",
+        "fra": "Costa Rica"
+    },
+    {
+        "country": "COL",
+        "spa": "Colombia",
+        "eng": "Colombia",
+        "por": "Colômbia",
+        "fra": "Colombie"
+    },
+    {
+        "country": "CHL",
+        "spa": "Chile",
+        "eng": "Chile",
+        "por": "Chile",
+        "fra": "Chili"
+    },
+    {
+        "country": "PER",
+        "spa": "Perú",
+        "eng": "Peru",
+        "por": "Peru",
+        "fra": "Pérou"
+    },
+    {
+        "country": "VEN",
+        "spa": "Venezuela",
+        "eng": "Venezuela",
+        "por": "Venezuela",
+        "fra": "Venezuela"
+    },
+    {
+        "country": "CUB",
+        "spa": "Cuba",
+        "eng": "Cuba",
+        "por": "Cuba",
+        "fra": "Cuba"
+    },
+    {
+        "country": "BOL",
+        "spa": "Bolivia",
+        "eng": "Bolivia",
+        "por": "Bolívia",
+        "fra": "Bolivie"
+    },
+    {
+        "country": "DOM",
+        "spa": "República Dominicana",
+        "eng": "Dominican Republic",
+        "por": "República Dominicana",
+        "fra": "République dominicaine"
+    },
+    {
+        "country": "ECU",
+        "spa": "Ecuador",
+        "eng": "Ecuador",
+        "por": "Equador",
+        "fra": "Équateur"
+    },
+    {
+        "country": "GTM",
+        "spa": "Guatemala",
+        "eng": "Guatemala",
+        "por": "Guatemala",
+        "fra": "Guatemala"
+    },
+    {
+        "country": "HND",
+        "spa": "Honduras",
+        "eng": "Honduras",
+        "por": "Honduras",
+        "fra": "Honduras"
+    },
+    {
+        "country": "NIC",
+        "spa": "Nicaragua",
+        "eng": "Nicaragua",
+        "por": "Nicarágua",
+        "fra": "Nicaragua"
+    },
+    {
+        "country": "SLV",
+        "spa": "El Salvador",
+        "eng": "El Salvador",
+        "por": "El Salvador",
+        "fra": "Le Salvador"
+    },
+    {
+        "country": "PAN",
+        "spa": "Panamá",
+        "eng": "Panama",
+        "por": "Panamá",
+        "fra": "Panama"
+    },
+    {
+        "country": "PRY",
+        "spa": "Paraguay",
+        "eng": "Paraguay",
+        "por": "Paraguai",
+        "fra": "Paraguay"
+    },
+    {
+        "country": "URY",
+        "spa": "Uruguay",
+        "eng": "Uruguay",
+        "por": "Uruguai",
+        "fra": "Uruguay"
+    },
+    {
+        "country": "GUY",
+        "spa": "Guyana",
+        "eng": "Guyana",
+        "por": "Guiana",
+        "fra": "Guyane"
+    },
+    {
+        "country": "SUR",
+        "spa": "Surinam",
+        "eng": "Suriname",
+        "por": "Suriname",
+        "fra": "Surinam"
+    },
+    {
+        "country": "HTI",
+        "spa": "Haití",
+        "eng": "Haiti",
+        "por": "Haiti",
+        "fra": "Haïti"
+    },
+    {
+        "country": "JAM",
+        "spa": "Jamaica",
+        "eng": "Jamaica",
+        "por": "Jamaica",
+        "fra": "Jamaïque"
+    },
+    {
+        "country": "BHS",
+        "spa": "Bahamas",
+        "eng": "Bahamas",
+        "por": "Bahamas",
+        "fra": "Bahamas"
+    },
+    {
+        "country": "BRB",
+        "spa": "Barbados",
+        "eng": "Barbados",
+        "por": "Barbados",
+        "fra": "Barbade"
+    },
+    {
+        "country": "TTO",
+        "spa": "Trinidad y Tobago",
+        "eng": "Trinidad and Tobago",
+        "por": "Trinidad e Tobago",
+        "fra": "Trinité-et-Tobago"
+    },
+    {
+        "country": "ATG",
+        "spa": "Antigua y Barbuda",
+        "eng": "Antigua and Barbuda",
+        "por": "Antígua e Barbuda",
+        "fra": "Antigua-et-Barbuda"
+    },
+    {
+        "country": "DMA",
+        "spa": "Dominica",
+        "eng": "Dominica",
+        "por": "Dominica",
+        "fra": "Dominique"
+    },
+    {
+        "country": "GRD",
+        "spa": "Granada",
+        "eng": "Grenada",
+        "por": "Granada",
+        "fra": "Grenade"
+    },
+    {
+        "country": "KNA",
+        "spa": "San Cristóbal y Nieves",
+        "eng": "Saint Kitts and Nevis",
+        "por": "São Cristóvão e Névis",
+        "fra": "Saint-Christophe-et-Niévès"
+    },
+    {
+        "country": "LCA",
+        "spa": "Santa Lucía",
+        "eng": "Saint Lucia",
+        "por": "Santa Lúcia",
+        "fra": "Sainte-Lucie"
+    },
+    {
+        "country": "VCT",
+        "spa": "San Vicente y las Granadinas",
+        "eng": "Saint Vincent and the Grenadines",
+        "por": "São Vicente e Granadinas",
+        "fra": "Saint-Vincent-et-les-Grenadines"
+    }
+]

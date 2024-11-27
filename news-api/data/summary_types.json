@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Abstractivo",
+    "description": "Genera un nuevo texto que interpreta y reescribe las ideas principales del contenido original."
+  },
+  {
+    "name": "Extractivo",
+    "description": "Selecciona y extrae frases o fragmentos directamente del texto original para formar el resumen."
+  }
+]

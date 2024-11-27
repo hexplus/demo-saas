@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Contraloría General de la República",
+        "code": "CGR",
+        "country": "CRI",
+        "language": "SPA"
+    },
+    {
+        "name": "Instituto Costarricense de Electricidad",
+        "code": "ICE",
+        "country": "CRI",
+        "language": "SPA"
+    },
+    {
+        "name": "CNN en Español",
+        "code": "CNNE",
+        "country": "INT",
+        "language": "SPA"
+    },
+    {
+        "name": "Poder Judicial",
+        "code": "PJ",
+        "country": "CRI",
+        "language": "SPA"
+    },
+    {
+        "name": "Municipalidad San José",
+        "code": "MPSJ",
+        "country": "CRI",
+        "language": "SPA"
+    },
+    {
+        "name": "ARESEP",
+        "code": "ARSP",
+        "country": "CRI",
+        "language": "SPA"
+    },
+    {
+        "name": "Universidad Earth",
+        "code": "EARTH",
+        "country": "CRI",
+        "language": "SPA"
+    },
+    {
+        "name": "Federación Costarricense de Baloncesto",
+        "code": "FECOBA",
+        "country": "CRI",
+        "language": "SPA"
+    }
+]

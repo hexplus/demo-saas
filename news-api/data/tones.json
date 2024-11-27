@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Neutro",
+    "description": "Objetivo y equilibrado, sin mostrar emociones o juicios."
+  },
+  {
+    "name": "Optimista",
+    "description": "Transmite un sentimiento positivo, con énfasis en los aspectos favorables."
+  },
+  {
+    "name": "Pesimista",
+    "description": "Destaca los aspectos negativos y las dificultades, con un enfoque menos alentador."
+  },
+  {
+    "name": "Entusiasta",
+    "description": "Cargado de energía y entusiasmo, buscando contagiar emoción al lector."
+  },
+  {
+    "name": "Serio",
+    "description": "Formal y directo, adecuado para temas que requieren un enfoque profesional y grave."
+  },
+  {
+    "name": "Irónico",
+    "description": "Usa la ironía para crear un contraste entre lo que se dice y lo que se quiere insinuar."
+  },
+  {
+    "name": "Cálido",
+    "description": "Afectuoso y acogedor, busca crear una sensación de cercanía y confianza."
+  },
+  {
+    "name": "Urgente",
+    "description": "Enfocado en transmitir una sensación de rapidez e inmediatez, incitando a la acción rápida."
+  },
+  {
+    "name": "Frío",
+    "description": "Distante y objetivo, con un enfoque desapasionado de los temas."
+  },
+  {
+    "name": "Confidencial",
+    "description": "Sugiere exclusividad y privacidad, como si estuviera compartiendo información privilegiada."
+  },
+  {
+    "name": "Empático",
+    "description": "Busca conectar emocionalmente con el lector, mostrando comprensión hacia sus sentimientos."
+  },
+  {
+    "name": "Divertido",
+    "description": "Ligero y entretenido, con un toque de humor para hacer más amena la lectura."
+  },
+  {
+    "name": "Rebelde",
+    "description": "Desafiante y poco convencional, adecuado para textos que buscan romper con lo establecido."
+  },
+  {
+    "name": "Inspirador",
+    "description": "Motivador y positivo, buscando elevar el ánimo del lector."
+  },
+  {
+    "name": "Melancólico",
+    "description": "Evoca sentimientos de nostalgia y tristeza de manera sutil y reflexiva."
+  },
+  {
+    "name": "Optimista Prudente",
+    "description": "Enfocado en lo positivo, pero con un toque de cautela y realismo."
+  },
+  {
+    "name": "Contundente",
+    "description": "Directo y fuerte, sin rodeos, ideal para dar mensajes claros y potentes."
+  },
+  {
+    "name": "Reflexivo",
+    "description": "Promueve la introspección y el análisis profundo, invitando al lector a pensar sobre el tema."
+  },
+  {
+    "name": "Provocativo",
+    "description": "Busca desafiar y provocar una reacción del lector, cuestionando ideas y creencias."
+  },
+  {
+    "name": "Sarcástico",
+    "description": "Utiliza el sarcasmo para hacer críticas mordaces y humorísticas."
+  }
+]

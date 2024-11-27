@@ -1,0 +1,1 @@
+# https://www.seguridadpublica.go.cr/sala_prensa/comunicados.aspx

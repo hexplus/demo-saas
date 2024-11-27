@@ -1,0 +1,1 @@
+# https://www.imas.go.cr/es/comunicados
